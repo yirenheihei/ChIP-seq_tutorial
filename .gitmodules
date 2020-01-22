@@ -1,0 +1,3 @@
+[submodule "ChIP_mapping"]
+	path = ChIP_mapping
+	url = https://github.com/roadricefield/ChIP_mapping
